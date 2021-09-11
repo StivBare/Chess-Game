@@ -1,0 +1,14 @@
+.Chessboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.Title {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    color: #0C1446;
+    margin: 3rem 0 5rem 0;
+    text-align: center;
+}
